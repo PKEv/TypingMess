@@ -1,3 +1,3 @@
-# File contains requirements for merge pdf script
+# File contains requirements typing mess
 # pip install -r requirements.txt
 pywinauto
